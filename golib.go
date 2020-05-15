@@ -7,5 +7,5 @@ import (
 )
 
 func Foo() {
-	fmt.Println("golib.Foo v2")
+	fmt.Println("golib.Foo v2.0.2")
 }
