@@ -1,4 +1,4 @@
-module github.com/cc5nth/golib
+module github.com/cc5nth/golib/v2
 
 go 1.14
 
